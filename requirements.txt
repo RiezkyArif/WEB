@@ -1,7 +1,0 @@
-streamlit
-tensorflow
-streamlit
-tensorflow
-pandas
-numpy
-matplotlib
